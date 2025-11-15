@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ContactsApp.Infraestructure/1.0.0": {
+        "dependencies": {
+          "ContactsApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ContactsApp.Infraestructure.dll": {}
+        }
+      },
+      "ContactsApp.Domain/1.0.0": {
+        "runtime": {
+          "ContactsApp.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContactsApp.Infraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContactsApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

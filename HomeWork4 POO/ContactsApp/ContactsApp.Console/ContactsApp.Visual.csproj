@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ContactsApp.Domain\ContactsApp.Domain.csproj" />
+    <ProjectReference Include="..\ContactsApp.Infraestructure\ContactsApp.Infraestructure.csproj" />
+    <ProjectReference Include="..\ContactsApp.Services\ContactsApp.Services.csproj" />
+  </ItemGroup>
+
+</Project>

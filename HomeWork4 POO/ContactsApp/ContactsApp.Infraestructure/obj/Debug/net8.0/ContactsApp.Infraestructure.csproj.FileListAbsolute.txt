@@ -1,0 +1,16 @@
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Infraestructure\bin\Debug\net8.0\ContactsApp.Infraestructure.deps.json
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Infraestructure\bin\Debug\net8.0\ContactsApp.Infraestructure.dll
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Infraestructure\bin\Debug\net8.0\ContactsApp.Infraestructure.pdb
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Infraestructure\bin\Debug\net8.0\ContactsApp.Domain.dll
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Infraestructure\bin\Debug\net8.0\ContactsApp.Domain.pdb
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Infraestructure\obj\Debug\net8.0\ContactsApp.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Infraestructure\obj\Debug\net8.0\ContactsApp.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Infraestructure\obj\Debug\net8.0\ContactsApp.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Infraestructure\obj\Debug\net8.0\ContactsApp.Infraestructure.AssemblyInfo.cs
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Infraestructure\obj\Debug\net8.0\ContactsApp.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Infraestructure\obj\Debug\net8.0\ContactsApp.Infraestructure.sourcelink.json
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Infraestructure\obj\Debug\net8.0\Contacts.9B7BB109.Up2Date
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Infraestructure\obj\Debug\net8.0\ContactsApp.Infraestructure.dll
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Infraestructure\obj\Debug\net8.0\refint\ContactsApp.Infraestructure.dll
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Infraestructure\obj\Debug\net8.0\ContactsApp.Infraestructure.pdb
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Infraestructure\obj\Debug\net8.0\ref\ContactsApp.Infraestructure.dll

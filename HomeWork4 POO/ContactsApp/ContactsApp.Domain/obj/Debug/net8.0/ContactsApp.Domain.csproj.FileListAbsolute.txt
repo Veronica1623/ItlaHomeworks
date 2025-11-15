@@ -1,0 +1,12 @@
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Domain\bin\Debug\net8.0\ContactsApp.Domain.deps.json
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Domain\bin\Debug\net8.0\ContactsApp.Domain.dll
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Domain\bin\Debug\net8.0\ContactsApp.Domain.pdb
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Domain\obj\Debug\net8.0\ContactsApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Domain\obj\Debug\net8.0\ContactsApp.Domain.AssemblyInfoInputs.cache
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Domain\obj\Debug\net8.0\ContactsApp.Domain.AssemblyInfo.cs
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Domain\obj\Debug\net8.0\ContactsApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Domain\obj\Debug\net8.0\ContactsApp.Domain.sourcelink.json
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Domain\obj\Debug\net8.0\ContactsApp.Domain.dll
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Domain\obj\Debug\net8.0\refint\ContactsApp.Domain.dll
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Domain\obj\Debug\net8.0\ContactsApp.Domain.pdb
+C:\Users\J.Crhistian\source\repos\ITLA-HomeWork-Programming-1\src\HW4-Contacts with POO\ContactsApp\ContactsApp.Domain\obj\Debug\net8.0\ref\ContactsApp.Domain.dll
