@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\debor\\OneDrive\\Escritorio\\Boutiq\\BoutiqueConsoleApp\\",
+  "WorkspaceRootPath": "C:\\ItlaHomeworks\\Boutiq\\BoutiqueConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20ED7DD3-F91E-B53E-6E74-BE992A0B120D}|BoutiqueConsoleApp\\BoutiqueConsoleApp.csproj|c:\\users\\debor\\onedrive\\escritorio\\boutiq\\boutiqueconsoleapp\\boutiqueconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20ED7DD3-F91E-B53E-6E74-BE992A0B120D}|BoutiqueConsoleApp\\BoutiqueConsoleApp.csproj|c:\\itlahomeworks\\boutiq\\boutiqueconsoleapp\\boutiqueconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20ED7DD3-F91E-B53E-6E74-BE992A0B120D}|BoutiqueConsoleApp\\BoutiqueConsoleApp.csproj|solutionrelative:boutiqueconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20ED7DD3-F91E-B53E-6E74-BE992A0B120D}|BoutiqueConsoleApp\\BoutiqueConsoleApp.csproj|c:\\users\\debor\\onedrive\\escritorio\\boutiq\\boutiqueconsoleapp\\boutiqueconsoleapp\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20ED7DD3-F91E-B53E-6E74-BE992A0B120D}|BoutiqueConsoleApp\\BoutiqueConsoleApp.csproj|c:\\itlahomeworks\\boutiq\\boutiqueconsoleapp\\boutiqueconsoleapp\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20ED7DD3-F91E-B53E-6E74-BE992A0B120D}|BoutiqueConsoleApp\\BoutiqueConsoleApp.csproj|solutionrelative:boutiqueconsoleapp\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ED7DD3-F91E-B53E-6E74-BE992A0B120D}|BoutiqueConsoleApp\\BoutiqueConsoleApp.csproj|c:\\itlahomeworks\\boutiq\\boutiqueconsoleapp\\boutiqueconsoleapp\\dao\\prendadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ED7DD3-F91E-B53E-6E74-BE992A0B120D}|BoutiqueConsoleApp\\BoutiqueConsoleApp.csproj|solutionrelative:boutiqueconsoleapp\\dao\\prendadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +22,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrendaDAO.cs",
+              "DocumentMoniker": "C:\\ItlaHomeworks\\Boutiq\\BoutiqueConsoleApp\\BoutiqueConsoleApp\\DAO\\PrendaDAO.cs",
+              "RelativeDocumentMoniker": "BoutiqueConsoleApp\\DAO\\PrendaDAO.cs",
+              "ToolTip": "C:\\ItlaHomeworks\\Boutiq\\BoutiqueConsoleApp\\BoutiqueConsoleApp\\DAO\\PrendaDAO.cs",
+              "RelativeToolTip": "BoutiqueConsoleApp\\DAO\\PrendaDAO.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAAAAsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:49:50.822Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DatabaseConnection.cs",
-              "DocumentMoniker": "C:\\Users\\debor\\OneDrive\\Escritorio\\Boutiq\\BoutiqueConsoleApp\\BoutiqueConsoleApp\\DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\ItlaHomeworks\\Boutiq\\BoutiqueConsoleApp\\BoutiqueConsoleApp\\DatabaseConnection.cs",
               "RelativeDocumentMoniker": "BoutiqueConsoleApp\\DatabaseConnection.cs",
-              "ToolTip": "C:\\Users\\debor\\OneDrive\\Escritorio\\Boutiq\\BoutiqueConsoleApp\\BoutiqueConsoleApp\\DatabaseConnection.cs",
+              "ToolTip": "C:\\ItlaHomeworks\\Boutiq\\BoutiqueConsoleApp\\BoutiqueConsoleApp\\DatabaseConnection.cs",
               "RelativeToolTip": "BoutiqueConsoleApp\\DatabaseConnection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T18:09:21.348Z"
             },
@@ -36,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\debor\\OneDrive\\Escritorio\\Boutiq\\BoutiqueConsoleApp\\BoutiqueConsoleApp\\Program.cs",
+              "DocumentMoniker": "C:\\ItlaHomeworks\\Boutiq\\BoutiqueConsoleApp\\BoutiqueConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "BoutiqueConsoleApp\\Program.cs",
-              "ToolTip": "C:\\Users\\debor\\OneDrive\\Escritorio\\Boutiq\\BoutiqueConsoleApp\\BoutiqueConsoleApp\\Program.cs",
+              "ToolTip": "C:\\ItlaHomeworks\\Boutiq\\BoutiqueConsoleApp\\BoutiqueConsoleApp\\Program.cs",
               "RelativeToolTip": "BoutiqueConsoleApp\\Program.cs",
-              "ViewState": "AgIAAJ4GAAAAAAAAAAAmwKwGAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T21:00:02.892Z",
               "EditorCaption": ""
